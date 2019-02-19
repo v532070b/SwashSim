@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim>
+  <SignalController id="1">
+    <Label />
+    <ControlMode>Pretimed</ControlMode>
+    <IsMaster>false</IsMaster>
+    <AssociatedLinkIds>
+      <LinkId>1213</LinkId>
+      <LinkId>2223</LinkId>
+      <LinkId>3233</LinkId>
+      <LinkId>4243</LinkId>
+    </AssociatedLinkIds>
+    <TimingPlans>
+      <TimingPlan id="1">
+        <Label />
+        <IsCoordinated>false</IsCoordinated>
+        <TimingStages>
+          <TimingStage id="2">
+            <IncludedPhases>
+              <PhaseId>6</PhaseId>
+              <PhaseId>1</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>15.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+          <TimingStage id="1">
+            <IncludedPhases>
+              <PhaseId>2</PhaseId>
+              <PhaseId>5</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>15.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+          <TimingStage id="2">
+            <IncludedPhases>
+              <PhaseId>6</PhaseId>
+              <PhaseId>2</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>31.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+          <TimingStage id="3">
+            <IncludedPhases>
+              <PhaseId>4</PhaseId>
+              <PhaseId>7</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>16.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+          <TimingStage id="4">
+            <IncludedPhases>
+              <PhaseId>8</PhaseId>
+              <PhaseId>3</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>16.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+          <TimingStage id="5">
+            <IncludedPhases>
+              <PhaseId>8</PhaseId>
+              <PhaseId>4</PhaseId>
+            </IncludedPhases>
+            <MaxGreen>20.0</MaxGreen>
+            <Yellow>4.0</Yellow>
+            <AllRed>1.0</AllRed>
+          </TimingStage>
+        </TimingStages>
+        <TimingRings>
+          <TimingRing id="1">
+            <Phases>
+              <Phase id="1">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>15.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>3233</LinkId>
+                    <LaneId>2</LaneId>
+                    <Id>2</Id>
+                    <Label>E_W2</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="2">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>46.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>1213</LinkId>
+                    <LaneId>1</LaneId>
+                    <Id>1</Id>
+                    <Label>W_E1</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="4">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>16.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>4243</LinkId>
+                    <LaneId>1</LaneId>
+                    <Id>1</Id>
+                    <Label>N_S1</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="3">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>36.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>2223</LinkId>
+                    <LaneId>3</LaneId>
+                    <Id>3</Id>
+                    <Label>S_N3</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+            </Phases>
+            <PhaseSequence>
+              <PhaseId>1</PhaseId>
+              <PhaseId>2</PhaseId>
+              <PhaseId>4</PhaseId>
+              <PhaseId>3</PhaseId>
+            </PhaseSequence>
+          </TimingRing>
+          <TimingRing id="2">
+            <Phases>
+              <Phase id="6">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>15.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>3233</LinkId>
+                    <LaneId>1</LaneId>
+                    <Id>1</Id>
+                    <Label>E_W1</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="5">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>46.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>1213</LinkId>
+                    <LaneId>2</LaneId>
+                    <Id>2</Id>
+                    <Label>W_E2</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="7">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>16.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>4243</LinkId>
+                    <LaneId>2</LaneId>
+                    <Id>2</Id>
+                    <Label>N_S2</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+              <Phase id="8">
+                <MinGreen>0.0</MinGreen>
+                <MaxGreen>36.0</MaxGreen>
+                <Yellow>4.0</Yellow>
+                <AllRed>1.0</AllRed>
+                <ControlPoints>
+                  <ControlPoint>
+                    <LinkId>2223</LinkId>
+                    <LaneId>1</LaneId>
+                    <Id>1</Id>
+                    <Label>S_N1</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                  <ControlPoint>
+                    <LinkId>2223</LinkId>
+                    <LaneId>2</LaneId>
+                    <Id>2</Id>
+                    <Label>S_N2</Label>
+                    <LinkPositionPct>99</LinkPositionPct>
+                  </ControlPoint>
+                </ControlPoints>
+              </Phase>
+            </Phases>
+            <PhaseSequence>
+              <PhaseId>6</PhaseId>
+              <PhaseId>5</PhaseId>
+              <PhaseId>7</PhaseId>
+              <PhaseId>8</PhaseId>
+            </PhaseSequence>
+          </TimingRing>
+        </TimingRings>
+      </TimingPlan>
+    </TimingPlans>
+  </SignalController>
+</SwashSim>

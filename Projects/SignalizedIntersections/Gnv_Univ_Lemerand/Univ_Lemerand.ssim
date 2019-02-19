@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="Custom">
+  <Project>
+    <Facility>Custom</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>Projects\SignalizedIntersections\Gnv_Univ_Lemerand\Univ_Lemerand.ssim</FileName>
+    <FacilityName>Univ_Lemerand Project</FacilityName>
+    <FileNameNetwork>Projects\Signalized Intersections\Gnv_Univ_Lemerand\Univ_Lemerand.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <FileNameSignalData>Projects\SignalizedIntersections\Gnv_Univ_Lemerand\Univ_Lemerand_SignalData.xml</FileNameSignalData>
+    <OutputDataFolder>Projects\Signalized Intersections\Gnv_Univ_Lemerand</OutputDataFolder>
+    <Location>W University Ave @ Gale Lemerand Dr</Location>
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod>10:00 - 11:00</AnalysisPeriod>
+    <Analyst />
+    <Date>5/3/2018 12:40:22 PM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>0</WarmupTimeSeconds>
+    <DurationSeconds>300</DurationSeconds>
+    <RandSeed1>2943</RandSeed1>
+    <RandSeed2>479</RandSeed2>
+    <RandSeed3>4331</RandSeed3>
+    <RandSeed4>9524</RandSeed4>
+    <LinkPerformanceData>false</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+    <SignalTSDOutput>false</SignalTSDOutput>
+  </SimulationSettings>
+</SwashSim>

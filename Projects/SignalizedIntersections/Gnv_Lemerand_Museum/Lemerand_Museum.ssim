@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="Custom">
+  <Project>
+    <Facility>Custom</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>Projects\SignalizedIntersections\Gnv_Lemerand_Museum\Lemerand_Museum.ssim</FileName>
+    <FacilityName />
+    <FileNameNetwork>Projects\Signalized Intersections\Gnv_Lemerand_Museum\Lemerand_Museum.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <FileNameSignalData>Projects\Signalized Intersections\Gnv_Lemerand_Museum\Lemerand_Museum_SignalData.xml</FileNameSignalData>
+    <OutputDataFolder>Projects\Signalized Intersections\Gnv_Lemerand_Museum</OutputDataFolder>
+    <Location />
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod />
+    <Analyst />
+    <Date>4/17/2018 9:22:03 PM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>300</WarmupTimeSeconds>
+    <DurationSeconds>900</DurationSeconds>
+    <RandSeed1>1212</RandSeed1>
+    <RandSeed2>3333</RandSeed2>
+    <RandSeed3>5678</RandSeed3>
+    <RandSeed4>2468</RandSeed4>
+    <LinkPerformanceData>true</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+    <SignalTSDOutput>false</SignalTSDOutput>
+  </SimulationSettings>
+</SwashSim>

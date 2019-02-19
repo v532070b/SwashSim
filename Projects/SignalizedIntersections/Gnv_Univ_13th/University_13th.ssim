@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="Custom">
+  <Project>
+    <Facility>Custom</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>Projects\SignalizedIntersections\Gnv_Univ_13th\University_13th.ssim</FileName>
+    <FacilityName />
+    <FileNameNetwork>Projects\Signalized Intersections\Gnv_Univ_13th\University_13th.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <FileNameSignalData>Projects\Signalized Intersections\Gnv_Univ_13th\University_13th_SignalData.xml</FileNameSignalData>
+    <OutputDataFolder>Projects\Signalized Intersections\Gnv_Univ_13th</OutputDataFolder>
+    <Location />
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod />
+    <Analyst />
+    <Date>4/19/2018 12:10:01 PM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>0</WarmupTimeSeconds>
+    <DurationSeconds>300</DurationSeconds>
+    <RandSeed1>8420</RandSeed1>
+    <RandSeed2>8008</RandSeed2>
+    <RandSeed3>2572</RandSeed3>
+    <RandSeed4>4097</RandSeed4>
+    <LinkPerformanceData>false</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+    <SignalTSDOutput>false</SignalTSDOutput>
+  </SimulationSettings>
+</SwashSim>

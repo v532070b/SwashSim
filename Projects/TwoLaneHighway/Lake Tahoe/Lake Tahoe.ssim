@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="TwoLaneHighway">
+  <Project>
+    <Facility>TwoLaneHighway</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>Projects\TwoLaneHighway\Lake Tahoe\Lake Tahoe.ssim</FileName>
+    <FacilityName />
+    <FileNameNetwork>Projects\TwoLaneHighway\Lake Tahoe\Lake Tahoe.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <OutputDataFolder>Projects\TwoLaneHighway\Lake Tahoe\Data</OutputDataFolder>
+    <Location />
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod />
+    <Analyst />
+    <Date>2/3/2018 7:22:17 PM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>0</WarmupTimeSeconds>
+    <DurationSeconds>300</DurationSeconds>
+    <RandSeed1>5949</RandSeed1>
+    <RandSeed2>9274</RandSeed2>
+    <RandSeed3>22</RandSeed3>
+    <RandSeed4>3573</RandSeed4>
+    <LinkPerformanceData>false</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+    <SignalTSDOutput>false</SignalTSDOutput>
+  </SimulationSettings>
+</SwashSim>
