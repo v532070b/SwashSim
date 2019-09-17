@@ -293,7 +293,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>192</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -456,7 +458,14 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>194</unsignedInt>
+            <unsignedInt>197</unsignedInt>
+            <unsignedInt>195</unsignedInt>
+            <unsignedInt>196</unsignedInt>
+            <unsignedInt>198</unsignedInt>
+            <unsignedInt>199</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -619,7 +628,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>200</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -1384,7 +1395,14 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>201</unsignedInt>
+            <unsignedInt>202</unsignedInt>
+            <unsignedInt>204</unsignedInt>
+            <unsignedInt>205</unsignedInt>
+            <unsignedInt>206</unsignedInt>
+            <unsignedInt>207</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -1547,7 +1565,13 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>208</unsignedInt>
+            <unsignedInt>211</unsignedInt>
+            <unsignedInt>209</unsignedInt>
+            <unsignedInt>210</unsignedInt>
+            <unsignedInt>213</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -5032,7 +5056,12 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>212</unsignedInt>
+            <unsignedInt>214</unsignedInt>
+            <unsignedInt>215</unsignedInt>
+            <unsignedInt>216</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -5195,7 +5224,15 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>217</unsignedInt>
+            <unsignedInt>218</unsignedInt>
+            <unsignedInt>219</unsignedInt>
+            <unsignedInt>220</unsignedInt>
+            <unsignedInt>221</unsignedInt>
+            <unsignedInt>222</unsignedInt>
+            <unsignedInt>223</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -8875,7 +8912,12 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>226</unsignedInt>
+            <unsignedInt>227</unsignedInt>
+            <unsignedInt>228</unsignedInt>
+            <unsignedInt>229</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -11344,7 +11386,18 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>231</unsignedInt>
+            <unsignedInt>230</unsignedInt>
+            <unsignedInt>233</unsignedInt>
+            <unsignedInt>235</unsignedInt>
+            <unsignedInt>234</unsignedInt>
+            <unsignedInt>237</unsignedInt>
+            <unsignedInt>238</unsignedInt>
+            <unsignedInt>239</unsignedInt>
+            <unsignedInt>240</unsignedInt>
+            <unsignedInt>242</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -11393,7 +11446,10 @@
             <unsignedByte>2</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>232</unsignedInt>
+            <unsignedInt>241</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -11507,7 +11563,14 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>244</unsignedInt>
+            <unsignedInt>245</unsignedInt>
+            <unsignedInt>246</unsignedInt>
+            <unsignedInt>247</unsignedInt>
+            <unsignedInt>249</unsignedInt>
+            <unsignedInt>250</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -16704,7 +16767,9 @@
             <unsignedByte>2</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>251</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -16871,7 +16936,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -16881,67 +16945,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>4</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -16951,67 +16958,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>7</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17021,64 +16971,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -17127,11 +17021,16 @@
             <unsignedByte>2</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>254</unsignedInt>
+            <unsignedInt>255</unsignedInt>
+            <unsignedInt>256</unsignedInt>
+            <unsignedInt>258</unsignedInt>
+            <unsignedInt>257</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17141,67 +17040,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>5</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17211,67 +17053,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>8</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17281,64 +17066,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -17391,7 +17120,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17401,67 +17129,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>6</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17471,67 +17142,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>9</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17541,64 +17155,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -17712,11 +17270,13 @@
             <unsignedByte>0</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>262</unsignedInt>
+            <unsignedInt>263</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17726,67 +17286,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>4</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17796,67 +17299,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>7</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17866,64 +17312,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -17972,11 +17362,13 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>259</unsignedInt>
+            <unsignedInt>261</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -17986,67 +17378,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>5</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -18056,67 +17391,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>8</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -18126,64 +17404,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -18236,7 +17458,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -18246,67 +17467,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>6</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -18316,67 +17480,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>9</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -18386,64 +17493,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -18557,7 +17608,10 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>264</unsignedInt>
+            <unsignedInt>265</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -19106,7 +18160,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>267</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -20474,7 +19530,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20484,67 +19539,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>4</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20554,67 +19552,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>7</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20624,64 +19565,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -20734,7 +19619,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20744,67 +19628,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>5</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20814,67 +19641,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>8</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -20884,64 +19654,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -20994,7 +19708,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -21004,67 +19717,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>6</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -21074,67 +19730,10 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>9</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -21144,64 +19743,8 @@
               <LanePositionBeginFeet>500</LanePositionBeginFeet>
               <LanePositionBeginPct>50.0075531</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>506</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
-              <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
-              <VehicleActuations />
-              <PerfMeas>
-                <VehCountTotal>0</VehCountTotal>
-                <VehCountByFHWAclass>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByFHWAclass>
-                <VehCountByModel>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                  <unsignedShort>0</unsignedShort>
-                </VehCountByModel>
-                <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
-                <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
-                <NumberOfFollowers>0</NumberOfFollowers>
-                <PercentFollowers>0</PercentFollowers>
-                <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
-                <Platoons />
-                <PlatoonVehIds />
-                <PlatoonCount>0</PlatoonCount>
-              </PerfMeas>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -21364,7 +19907,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>203</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -26887,7 +25432,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>224</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -29356,7 +27903,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>225</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -29519,7 +28068,9 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>236</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -33199,7 +31750,10 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>243</unsignedInt>
+            <unsignedInt>248</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -36684,7 +35238,10 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>252</unsignedInt>
+            <unsignedInt>253</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -37612,7 +36169,10 @@
             <unsignedByte>1</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>260</unsignedInt>
+            <unsignedInt>266</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>
@@ -37775,7 +36335,9 @@
             <unsignedByte>0</unsignedByte>
             <unsignedByte>0</unsignedByte>
           </ConnectingLaneIdsUpstream>
-          <VehIdList />
+          <VehIdList>
+            <unsignedInt>268</unsignedInt>
+          </VehIdList>
           <ControlPoints />
           <Detectors />
         </LaneData>

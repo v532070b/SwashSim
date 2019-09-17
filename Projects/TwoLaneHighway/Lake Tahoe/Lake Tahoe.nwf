@@ -32447,7 +32447,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -32457,11 +32456,15 @@
               <LanePositionBeginFeet>623</LanePositionBeginFeet>
               <LanePositionBeginPct>97.84066</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>629</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -32502,19 +32505,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -32567,7 +32570,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -32577,11 +32579,15 @@
               <LanePositionBeginFeet>623</LanePositionBeginFeet>
               <LanePositionBeginPct>97.84066</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>629</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -32622,19 +32628,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -32752,7 +32758,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -32762,11 +32767,15 @@
               <LanePositionBeginFeet>532</LanePositionBeginFeet>
               <LanePositionBeginPct>97.5541</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>538</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -32807,19 +32816,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -32872,7 +32881,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -32882,11 +32890,15 @@
               <LanePositionBeginFeet>532</LanePositionBeginFeet>
               <LanePositionBeginPct>97.5541</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>538</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -32927,19 +32939,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33057,7 +33069,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33067,11 +33078,15 @@
               <LanePositionBeginFeet>330</LanePositionBeginFeet>
               <LanePositionBeginPct>96.13028</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>336</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33112,19 +33127,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33177,7 +33192,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33187,11 +33201,15 @@
               <LanePositionBeginFeet>330</LanePositionBeginFeet>
               <LanePositionBeginPct>96.13028</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>336</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33232,19 +33250,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33362,7 +33380,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33372,11 +33389,15 @@
               <LanePositionBeginFeet>323</LanePositionBeginFeet>
               <LanePositionBeginPct>96.11861</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>329</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33417,19 +33438,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33482,7 +33503,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33492,11 +33512,15 @@
               <LanePositionBeginFeet>323</LanePositionBeginFeet>
               <LanePositionBeginPct>96.11861</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>329</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33537,19 +33561,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33667,7 +33691,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33677,11 +33700,15 @@
               <LanePositionBeginFeet>763</LanePositionBeginFeet>
               <LanePositionBeginPct>97.97248</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>769</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33722,19 +33749,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33787,7 +33814,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33797,11 +33823,15 @@
               <LanePositionBeginFeet>763</LanePositionBeginFeet>
               <LanePositionBeginPct>97.97248</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>769</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -33842,19 +33872,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -33972,7 +34002,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -33982,11 +34011,15 @@
               <LanePositionBeginFeet>105</LanePositionBeginFeet>
               <LanePositionBeginPct>8.014656</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>111</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -34027,22 +34060,21 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -34052,11 +34084,15 @@
               <LanePositionBeginFeet>1302</LanePositionBeginFeet>
               <LanePositionBeginPct>99.38173</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1308</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -34097,19 +34133,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -34162,7 +34198,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -34172,11 +34207,15 @@
               <LanePositionBeginFeet>105</LanePositionBeginFeet>
               <LanePositionBeginPct>8.014656</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>111</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -34217,22 +34256,21 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>4</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -34242,11 +34280,15 @@
               <LanePositionBeginFeet>1302</LanePositionBeginFeet>
               <LanePositionBeginPct>99.38173</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1308</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -34287,19 +34329,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -36531,21 +36573,24 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
               <ControlPhaseId>0</ControlPhaseId>
               <LinkId>87</LinkId>
               <LaneId>1</LaneId>
-              <LanePositionBeginFeet>1407</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.31177</LanePositionBeginPct>
+              <LanePositionBeginFeet>1415</LanePositionBeginFeet>
+              <LanePositionBeginPct>98.8711548</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1421</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -36586,19 +36631,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -36651,21 +36696,24 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
               <ControlPhaseId>0</ControlPhaseId>
               <LinkId>87</LinkId>
               <LaneId>2</LaneId>
-              <LanePositionBeginFeet>1407</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.31177</LanePositionBeginPct>
+              <LanePositionBeginFeet>1415</LanePositionBeginFeet>
+              <LanePositionBeginPct>98.8711548</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1421</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -36706,19 +36754,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -36771,21 +36819,24 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
               <ControlPhaseId>0</ControlPhaseId>
               <LinkId>87</LinkId>
               <LaneId>3</LaneId>
-              <LanePositionBeginFeet>1407</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.31177</LanePositionBeginPct>
+              <LanePositionBeginFeet>1415</LanePositionBeginFeet>
+              <LanePositionBeginPct>98.8711548</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1421</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -36826,19 +36877,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39254,7 +39305,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39264,11 +39314,15 @@
               <LanePositionBeginFeet>517</LanePositionBeginFeet>
               <LanePositionBeginPct>97.53883</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>523</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39309,19 +39363,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39374,7 +39428,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39384,11 +39437,15 @@
               <LanePositionBeginFeet>517</LanePositionBeginFeet>
               <LanePositionBeginPct>97.53883</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>523</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39429,19 +39486,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39494,7 +39551,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39504,11 +39560,15 @@
               <LanePositionBeginFeet>517</LanePositionBeginFeet>
               <LanePositionBeginPct>97.53883</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>523</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39549,19 +39609,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39679,7 +39739,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39689,11 +39748,15 @@
               <LanePositionBeginFeet>844</LanePositionBeginFeet>
               <LanePositionBeginPct>98.00685</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>850</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39734,19 +39797,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39799,7 +39862,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39809,11 +39871,15 @@
               <LanePositionBeginFeet>844</LanePositionBeginFeet>
               <LanePositionBeginPct>98.00685</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>850</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39854,19 +39920,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -39919,7 +39985,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -39929,11 +39994,15 @@
               <LanePositionBeginFeet>844</LanePositionBeginFeet>
               <LanePositionBeginPct>98.00685</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>850</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -39974,19 +40043,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -40104,7 +40173,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -40112,13 +40180,17 @@
               <LinkId>1110</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>657</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.43495</LanePositionBeginPct>
+              <LanePositionBeginPct>98.42987</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>663</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -40159,19 +40231,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -40224,7 +40296,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -40232,13 +40303,17 @@
               <LinkId>1110</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>657</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.43495</LanePositionBeginPct>
+              <LanePositionBeginPct>98.42987</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>663</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -40279,19 +40354,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -41491,7 +41566,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -41499,13 +41573,17 @@
               <LinkId>1211</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>1127</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.1511</LanePositionBeginPct>
+              <LanePositionBeginPct>99.1307</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1133</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -41546,19 +41624,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -41611,7 +41689,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -41619,13 +41696,17 @@
               <LinkId>1211</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>1127</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.1511</LanePositionBeginPct>
+              <LanePositionBeginPct>99.1307</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1133</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -41666,19 +41747,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -43598,21 +43679,24 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
               <ControlPhaseId>0</ControlPhaseId>
               <LinkId>1312</LinkId>
               <LaneId>1</LaneId>
-              <LanePositionBeginFeet>1042</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.37544</LanePositionBeginPct>
+              <LanePositionBeginFeet>1046</LanePositionBeginFeet>
+              <LanePositionBeginPct>98.81996</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1052</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -43653,19 +43737,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -43718,21 +43802,24 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
               <ControlPhaseId>0</ControlPhaseId>
               <LinkId>1312</LinkId>
               <LaneId>2</LaneId>
-              <LanePositionBeginFeet>1042</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.37544</LanePositionBeginPct>
+              <LanePositionBeginFeet>1046</LanePositionBeginFeet>
+              <LanePositionBeginPct>98.81996</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1052</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -43773,19 +43860,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -45601,7 +45688,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -45611,11 +45697,15 @@
               <LanePositionBeginFeet>499</LanePositionBeginFeet>
               <LanePositionBeginPct>97.2752</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>505</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -45656,19 +45746,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -45721,7 +45811,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -45731,11 +45820,15 @@
               <LanePositionBeginFeet>499</LanePositionBeginFeet>
               <LanePositionBeginPct>97.2752</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>505</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -45776,19 +45869,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -45906,7 +45999,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -45916,11 +46008,15 @@
               <LanePositionBeginFeet>686</LanePositionBeginFeet>
               <LanePositionBeginPct>98.6345</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>692</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -45961,19 +46057,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -46026,7 +46122,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -46036,11 +46131,15 @@
               <LanePositionBeginFeet>686</LanePositionBeginFeet>
               <LanePositionBeginPct>98.6345</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>692</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -46081,19 +46180,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -47341,7 +47440,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -47349,13 +47447,17 @@
               <LinkId>1615</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>417</LanePositionBeginFeet>
-              <LanePositionBeginPct>96.85531</LanePositionBeginPct>
+              <LanePositionBeginPct>96.90522</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>423</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -47396,19 +47498,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -47461,7 +47563,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -47469,13 +47570,17 @@
               <LinkId>1615</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>417</LanePositionBeginFeet>
-              <LanePositionBeginPct>96.85531</LanePositionBeginPct>
+              <LanePositionBeginPct>96.90522</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>423</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -47516,19 +47621,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -48344,7 +48449,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -48354,11 +48458,15 @@
               <LanePositionBeginFeet>605</LanePositionBeginFeet>
               <LanePositionBeginPct>97.89644</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>611</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -48399,19 +48507,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -48464,7 +48572,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -48474,11 +48581,15 @@
               <LanePositionBeginFeet>605</LanePositionBeginFeet>
               <LanePositionBeginPct>97.89644</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>611</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -48519,19 +48630,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -48649,7 +48760,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -48657,13 +48767,17 @@
               <LinkId>1817</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>302</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.20604</LanePositionBeginPct>
+              <LanePositionBeginPct>97.20606</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>308</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -48704,19 +48818,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -48769,7 +48883,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -48777,13 +48890,17 @@
               <LinkId>1817</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>302</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.20604</LanePositionBeginPct>
+              <LanePositionBeginPct>97.20606</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>308</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -48824,19 +48941,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -49468,7 +49585,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -49476,13 +49592,17 @@
               <LinkId>1918</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>528</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.1291046</LanePositionBeginPct>
+              <LanePositionBeginPct>98.22868</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>534</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -49523,19 +49643,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -49588,7 +49708,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -49596,13 +49715,17 @@
               <LinkId>1918</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>528</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.1291046</LanePositionBeginPct>
+              <LanePositionBeginPct>98.22868</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>534</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -49643,19 +49766,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -50647,7 +50770,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -50655,13 +50777,17 @@
               <LinkId>2019</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>266</LanePositionBeginFeet>
-              <LanePositionBeginPct>95.87227</LanePositionBeginPct>
+              <LanePositionBeginPct>95.82117</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>272</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -50702,19 +50828,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -50767,7 +50893,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -50775,13 +50900,17 @@
               <LinkId>2019</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>266</LanePositionBeginFeet>
-              <LanePositionBeginPct>95.87227</LanePositionBeginPct>
+              <LanePositionBeginPct>95.82117</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>272</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -50822,19 +50951,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -51410,7 +51539,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -51418,13 +51546,17 @@
               <LinkId>2120</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>582</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.88516</LanePositionBeginPct>
+              <LanePositionBeginPct>97.96914</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>588</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -51465,19 +51597,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -51530,7 +51662,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -51538,13 +51669,17 @@
               <LinkId>2120</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>582</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.88516</LanePositionBeginPct>
+              <LanePositionBeginPct>97.96914</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>588</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -51585,19 +51720,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -52677,7 +52812,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -52685,13 +52819,17 @@
               <LinkId>2221</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>71</LanePositionBeginFeet>
-              <LanePositionBeginPct>10.0085573</LanePositionBeginPct>
+              <LanePositionBeginPct>10.0178318</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>77</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -52732,22 +52870,21 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -52755,13 +52892,17 @@
               <LinkId>2221</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>699</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.67592</LanePositionBeginPct>
+              <LanePositionBeginPct>98.62626</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>705</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -52802,19 +52943,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -52867,7 +53008,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -52875,13 +53015,17 @@
               <LinkId>2221</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>71</LanePositionBeginFeet>
-              <LanePositionBeginPct>10.0085573</LanePositionBeginPct>
+              <LanePositionBeginPct>10.0178318</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>77</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -52922,22 +53066,21 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>4</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -52945,13 +53088,17 @@
               <LinkId>2221</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>699</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.67592</LanePositionBeginPct>
+              <LanePositionBeginPct>98.62626</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>705</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -52992,19 +53139,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -54212,7 +54359,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -54220,13 +54366,17 @@
               <LinkId>2322</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>901</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.92466</LanePositionBeginPct>
+              <LanePositionBeginPct>99.02473</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>907</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -54267,19 +54417,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -54332,7 +54482,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -54340,13 +54489,17 @@
               <LinkId>2322</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>901</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.92466</LanePositionBeginPct>
+              <LanePositionBeginPct>99.02473</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>907</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -54387,19 +54540,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -54452,7 +54605,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>3</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -54460,13 +54612,17 @@
               <LinkId>2322</LinkId>
               <LaneId>3</LaneId>
               <LanePositionBeginFeet>901</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.92466</LanePositionBeginPct>
+              <LanePositionBeginPct>99.02473</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>907</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -54507,19 +54663,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -56095,7 +56251,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -56105,11 +56260,15 @@
               <LanePositionBeginFeet>1001</LanePositionBeginFeet>
               <LanePositionBeginPct>97.98175</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1007</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -56150,19 +56309,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -56215,7 +56374,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -56225,11 +56383,15 @@
               <LanePositionBeginFeet>1001</LanePositionBeginFeet>
               <LanePositionBeginPct>97.98175</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1007</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -56270,19 +56432,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -56400,7 +56562,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -56408,13 +56569,17 @@
               <LinkId>2524</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>517</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.36069</LanePositionBeginPct>
+              <LanePositionBeginPct>97.399</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>523</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -56455,19 +56620,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -56520,7 +56685,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -56528,13 +56692,17 @@
               <LinkId>2524</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>517</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.36069</LanePositionBeginPct>
+              <LanePositionBeginPct>97.399</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>523</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -56575,19 +56743,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -57555,7 +57723,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -57563,13 +57730,17 @@
               <LinkId>2625</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>1786</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.47392</LanePositionBeginPct>
+              <LanePositionBeginPct>99.5619049</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1792</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -57610,19 +57781,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -57675,7 +57846,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -57683,13 +57853,17 @@
               <LinkId>2625</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>1786</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.47392</LanePositionBeginPct>
+              <LanePositionBeginPct>99.5619049</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>1792</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -57730,19 +57904,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -60222,7 +60396,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -60230,13 +60403,17 @@
               <LinkId>2726</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>982</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.16156</LanePositionBeginPct>
+              <LanePositionBeginPct>99.13059</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>988</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -60277,19 +60454,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -60342,7 +60519,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -60350,13 +60526,17 @@
               <LinkId>2726</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>982</LanePositionBeginFeet>
-              <LanePositionBeginPct>99.16156</LanePositionBeginPct>
+              <LanePositionBeginPct>99.13059</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>988</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -60397,19 +60577,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -62049,7 +62229,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -62057,13 +62236,17 @@
               <LinkId>2827</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>758</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.89652</LanePositionBeginPct>
+              <LanePositionBeginPct>98.80345</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>764</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -62104,19 +62287,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -62169,7 +62352,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -62177,13 +62359,17 @@
               <LinkId>2827</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>758</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.89652</LanePositionBeginPct>
+              <LanePositionBeginPct>98.80345</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>764</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -62224,19 +62410,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -63596,7 +63782,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -63604,13 +63789,17 @@
               <LinkId>2928</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>778</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.7721939</LanePositionBeginPct>
+              <LanePositionBeginPct>98.7340851</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>784</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -63651,19 +63840,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -63716,7 +63905,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -63724,13 +63912,17 @@
               <LinkId>2928</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>778</LanePositionBeginFeet>
-              <LanePositionBeginPct>98.7721939</LanePositionBeginPct>
+              <LanePositionBeginPct>98.7340851</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>784</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -63771,19 +63963,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -65175,7 +65367,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -65183,13 +65374,17 @@
               <LinkId>3029</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>246</LanePositionBeginFeet>
-              <LanePositionBeginPct>95.46604</LanePositionBeginPct>
+              <LanePositionBeginPct>95.4304657</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>252</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -65230,19 +65425,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -65295,7 +65490,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -65303,13 +65497,17 @@
               <LinkId>3029</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>246</LanePositionBeginFeet>
-              <LanePositionBeginPct>95.46604</LanePositionBeginPct>
+              <LanePositionBeginPct>95.4304657</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>252</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -65350,19 +65548,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -65906,7 +66104,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -65916,11 +66113,15 @@
               <LanePositionBeginFeet>806</LanePositionBeginFeet>
               <LanePositionBeginPct>98.05752</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>812</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -65961,19 +66162,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -66026,7 +66227,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -66036,11 +66236,15 @@
               <LanePositionBeginFeet>806</LanePositionBeginFeet>
               <LanePositionBeginPct>98.05752</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>812</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -66081,19 +66285,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -66211,7 +66415,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -66221,11 +66424,15 @@
               <LanePositionBeginFeet>960</LanePositionBeginFeet>
               <LanePositionBeginPct>98.75587</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>966</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -66266,19 +66473,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -66331,7 +66538,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -66341,11 +66547,15 @@
               <LanePositionBeginFeet>960</LanePositionBeginFeet>
               <LanePositionBeginPct>98.75587</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>966</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -66386,19 +66596,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -67958,7 +68168,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -67966,13 +68175,17 @@
               <LinkId>3332</LinkId>
               <LaneId>1</LaneId>
               <LanePositionBeginFeet>407</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.692276</LanePositionBeginPct>
+              <LanePositionBeginPct>98.00123</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>413</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -68013,19 +68226,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -68078,7 +68291,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -68086,13 +68298,17 @@
               <LinkId>3332</LinkId>
               <LaneId>2</LaneId>
               <LanePositionBeginFeet>407</LanePositionBeginFeet>
-              <LanePositionBeginPct>97.692276</LanePositionBeginPct>
+              <LanePositionBeginPct>98.00123</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>413</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -68133,19 +68349,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -68945,7 +69161,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>1</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -68955,11 +69170,15 @@
               <LanePositionBeginFeet>3001</LanePositionBeginFeet>
               <LanePositionBeginPct>98.00131</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>3007</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -69000,19 +69219,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
@@ -69065,7 +69284,6 @@
           <ControlPoints />
           <Detectors>
             <DetectorData>
-              <IsOccupied>false</IsOccupied>
               <Id>2</Id>
               <Label />
               <ControllerId>0</ControllerId>
@@ -69075,11 +69293,15 @@
               <LanePositionBeginFeet>3001</LanePositionBeginFeet>
               <LanePositionBeginPct>98.00131</LanePositionBeginPct>
               <LengthFeet>6</LengthFeet>
+              <LanePositionEndFeet>3007</LanePositionEndFeet>
               <TravelDir>EB</TravelDir>
               <PreviousActivationTime>0</PreviousActivationTime>
-              <VehIdList />
               <VehicleActuations />
+              <VehIdList />
               <PerfMeas>
+                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
+                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <CumulativeVehSpeed>0</CumulativeVehSpeed>
                 <VehCountTotal>0</VehCountTotal>
                 <VehCountByFHWAclass>
                   <unsignedShort>0</unsignedShort>
@@ -69120,19 +69342,19 @@
                   <unsignedShort>0</unsignedShort>
                 </VehCountByModel>
                 <FlowRateVehPerHr>0</FlowRateVehPerHr>
-                <CumulativeVehSpeed>0</CumulativeVehSpeed>
-                <AverageSpeedFtPerSec>0</AverageSpeedFtPerSec>
-                <AverageSpeedMiPerHr>0</AverageSpeedMiPerHr>
+                <AverageHeadway>0</AverageHeadway>
+                <CumulativeHeadway>0</CumulativeHeadway>
                 <FollowerHeadwayThresholdSeconds>2.5</FollowerHeadwayThresholdSeconds>
                 <NumberOfFollowers>0</NumberOfFollowers>
                 <PercentFollowers>0</PercentFollowers>
                 <FollowerDensity>0</FollowerDensity>
-                <AverageHeadway>0</AverageHeadway>
-                <CumulativeHeadway>0</CumulativeHeadway>
                 <Platoons />
                 <PlatoonVehIds />
                 <PlatoonCount>0</PlatoonCount>
+                <PctTimeOccupied>0</PctTimeOccupied>
               </PerfMeas>
+              <IsOccupied>false</IsOccupied>
+              <NumTimeStepsOccupied>0</NumTimeStepsOccupied>
             </DetectorData>
           </Detectors>
         </LaneData>
