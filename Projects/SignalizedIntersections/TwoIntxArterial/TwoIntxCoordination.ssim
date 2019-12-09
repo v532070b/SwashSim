@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="Custom">
+  <Project>
+    <Facility>Custom</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>Projects\TwoIntxArterial\TwoIntxCoordination.ssim</FileName>
+    <FacilityName />
+    <FileNameNetwork>Projects\TwoIntxArterial\TwoIntxCoordination.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <FileNameCarFollowModelParms>DataFiles_ModelParms\CarFollowModelParms.xml</FileNameCarFollowModelParms>
+    <FileNameVehicleBase>DataFiles_Vehicles\VehiclesBase.xml</FileNameVehicleBase>
+    <FileNameVehicleDimensions>DataFiles_Vehicles\VehiclesDimensions.xml</FileNameVehicleDimensions>
+    <FileNameVehicleEngines>DataFiles_Vehicles\Engines.xml</FileNameVehicleEngines>
+    <FileNameVehicleTransmissions>DataFiles_Vehicles\Transmissions.xml</FileNameVehicleTransmissions>
+    <FileNameSignalData>Projects\TwoIntxArterial\SignalData.xml</FileNameSignalData>
+    <OutputDataFolder>Projects\TwoIntxArterial</OutputDataFolder>
+    <RouteAssignmentMethod>Random</RouteAssignmentMethod>
+    <Location />
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod />
+    <Analyst />
+    <Date>11/14/2017 10:29:52 PM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>300</WarmupTimeSeconds>
+    <DurationSeconds>900</DurationSeconds>
+    <DetectorAggregationIntervalSeconds>30</DetectorAggregationIntervalSeconds>
+    <RandSeed1>5145</RandSeed1>
+    <RandSeed2>4502</RandSeed2>
+    <RandSeed3>1519</RandSeed3>
+    <RandSeed4>8146</RandSeed4>
+    <LinkPerformanceData>false</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <RampMeteringData>false</RampMeteringData>
+    <SignalTSDOutput>false</SignalTSDOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+  </SimulationSettings>
+</SwashSim>
